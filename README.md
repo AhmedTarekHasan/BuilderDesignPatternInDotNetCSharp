@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/builder-design-pattern-in-net-c-bbf11c891548?sk=86d584e92a5f565c35e8a642543e9289" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/builder-design-pattern-in-net-c" />
 
 # Builder Design Pattern in .NET C#
 ### Step by step guide to develop a Fluent API from scratch in .NET C# using the Builder Design Pattern.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*J87HufKgAPiLRsmPxegUcA.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_812eb62fb3d44c3e980670757c8f2182~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/builder-design-pattern-in-net-c-bbf11c891548?sk=86d584e92a5f565c35e8a642543e9289
+[Article]: https://www.developmentsimplyput.com/post/builder-design-pattern-in-net-c
